@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,400i,700");
+
+font-family: 'Merriweather', seri#$
+
+header{
+	margin:0;
+	width:100%;
+	background-color:green;
+}
+
+img{
+  border-radius: 50%;
+  webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
